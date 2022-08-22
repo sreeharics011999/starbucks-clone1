@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-padding-top: 2rem;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+
+.topbar{
+    height: 10px;
+    background: rgb(27, 86, 23);
+}
+
+.nav-item{
+    padding-left: 10px;
+}
+
+.header-section{
+    font-family: Lato,Helvetica,Arial,sans-serif;
+}
+
+.body-bottom{
+    display: flex;
+}
+
+.body-bottom-left{
+    width: 50%;
+    background: red;
+    justify-content: center;
+    display: flex;    
+}
+
+.body-bottom-right{
+    width: 50%;
+    background: blue;
+}
+
+.parent-footer{
+    
+}
